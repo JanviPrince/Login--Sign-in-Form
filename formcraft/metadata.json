@@ -1,0 +1,6 @@
+{
+  "name": "FormCraft",
+  "description": "A polished React Forms implementation featuring Login and Signup pages with real-time validation, password visibility toggles, and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
