@@ -21,5 +21,3 @@ A simple and responsive Login & Sign-Up Form built using HTML, CSS, and JavaScri
 - JavaScript
 
 ---
-
-## 📂 Project Structure
