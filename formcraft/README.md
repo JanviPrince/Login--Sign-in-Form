@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔐 Login & Sign-Up Form
 
-# Run and deploy your AI Studio app
+A simple and responsive Login & Sign-Up Form built using HTML, CSS, and JavaScript. This project demonstrates a clean UI design and basic front-end authentication structure.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/792b48d6-ed0c-41be-ae23-ff206ca1c476
+## 🚀 Features
 
-## Run Locally
+- 🧾 User-friendly Login & Registration form
+- 🎨 Clean and modern UI design
+- 📱 Responsive layout (works on mobile & desktop)
+- ⚡ Smooth transitions between login and sign-up
+- 🔒 Basic validation for input fields
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Structure
